@@ -6,17 +6,17 @@ var delivery_price = 3.00;
 
 var pizzas = [
   {name: 'Supermisso', price: 8.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-4.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-4.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-4.png'}
+  {name: 'Meatlovers', price: 8.50, image: 'pizza-2.png'},
+  {name: 'Hawaiian', price: 8.50, image: 'pizza-3.png'},
+  {name: 'Pepperoni', price: 8.50, image: 'pizza-4.png'},
+  {name: 'Simply Cheese', price: 8.50, image: 'pizza-1.png'},
+  {name: 'Margherita', price: 8.50, image: 'pizza-2.png'},
+  {name: 'Bacon & Mushroom', price: 8.50, image: 'pizza-3.png'},
+  {name: 'Peri-Peri Beef', price: 13.50, image: 'pizza-4.png'},
+  {name: 'Grand Supreme', price: 13.50, image: 'pizza-1.png'},
+  {name: 'Surf & Turf', price: 13.50, image: 'pizza-2.png'},
+  {name: 'The Works', price: 13.50, image: 'pizza-3.png'},
+  {name: 'BBQ Feast', price: 13.50, image: 'pizza-4.png'}
 ];
 
 
