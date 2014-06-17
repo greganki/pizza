@@ -6,17 +6,17 @@ var delivery_price = 3.00;
 
 var pizzas = [
   {name: 'Supermisso', price: 8.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-4.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 8.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-4.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-1.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-2.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-3.png'},
-  {name: 'Supermisso', price: 13.50, image: 'pizza-4.png'}
+  {name: 'Meatlovers', price: 8.50, image: 'pizza-2.png'},
+  {name: 'Supreme', price: 8.50, image: 'pizza-3.png'},
+  {name: 'Hawaiian', price: 8.50, image: 'pizza-4.png'},
+  {name: 'Simply Cheese', price: 8.50, image: 'pizza-1.png'},
+  {name: 'Pepperoni', price: 8.50, image: 'pizza-2.png'},
+  {name: 'Margherita', price: 8.50, image: 'pizza-3.png'},
+  {name: 'Garlic Prawn', price: 13.50, image: 'pizza-4.png'},
+  {name: 'Vegorama', price: 13.50, image: 'pizza-1.png'},
+  {name: 'Veg Trio', price: 13.50, image: 'pizza-2.png'},
+  {name: 'Funky Chicken', price: 13.50, image: 'pizza-3.png'},
+  {name: 'Apricot Chicken', price: 13.50, image: 'pizza-4.png'}
 ];
 
 
